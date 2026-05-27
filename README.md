@@ -6,7 +6,7 @@ hướng dẫn
 
 3. Khởi tạo môi trường ảo
    <div><pre>python3 -m venv .venv
-   </div>`source .venv/bin/activate
+   </div>source .venv/bin/activate
    </pre>
 
 4. Cài đật tài nguyên phụ thuộc
