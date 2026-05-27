@@ -1,14 +1,16 @@
 hướng dẫn
 1. clone mã nguồn:
 
-   <div><pre>git clone https://github.com/friedpotatoes3010/anti-botnet.git
+   <div>
+      <pre>
+      git clone https://github.com/friedpotatoes3010/anti-botnet.git
    </pre> 
 
 3. Khởi tạo môi trường ảo
    <div>
       <pre>
-         python3 -m venv .venv
-         source .venv/bin/activate
+      python3 -m venv .venv
+      source .venv/bin/activate
       </pre>
    </div>
 
